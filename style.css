@@ -22,10 +22,28 @@ h1 {
     margin-top: 5rem;
 }
 
-.countdown-container {
+.countdown-eldays-c{
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;    
+    justify-content: center;
+}
+
+.countdown-elhours-c{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.countdown-elmins-c{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.countdown-elseconds-c{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .big-text {
